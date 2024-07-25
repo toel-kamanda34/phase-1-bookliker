@@ -2,3 +2,11 @@ body {
 	display: grid;
 	grid-template-columns: 2fr 8fr
 }
+#list {
+	float: left;
+	width: 30%;
+}
+#show-panel {
+	float: right;
+	width: 65%;
+}
